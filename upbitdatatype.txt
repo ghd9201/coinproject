@@ -1,0 +1,96 @@
+#   업비트 데이터
+# {'ty': 'ticker', 'cd': 'KRW-BTC', 'op': 64759000.0, 'hp': 65899000.0, 'lp': 62608000.0, 'tp': 62804000.0, 'pcp': 64767000.0, 'atp': 264035446838.0848, 'c': 'FALL', 'cp': 1963000.0, 'scp': -1963000.0, 'cr': 0.0303086448, 'scr': -0.0303086448, 'ab': 'ASK', 'tv': 0.01514311, 'atv': 4105.07478586, 'tdt': '20210428', 'ttm': '063634', 'ttms': 1619591794000, 'aav': 2433.84573253, 'abv': 1671.22905333, 'h52wp': 81994000.0, 'h52wdt': '2021-04-14', 'l52wp': 9339000.0, 'l52wdt': '2020-04-28', 'ts': None, 'ms': 'ACTIVE', 'msfi': None, 'its': False, 'dd': None, 'mw': 'NONE', 'tms': 1619591795456, 'atp24h': 555085615797.3053, 'atv24h': 8630.9207248, 'st': 'REALTIME'}
+# {'ty': 'ticker', 'cd': 'KRW-BTC', 'op': 64759000.0, 'hp': 65899000.0, 'lp': 62608000.0, 'tp': 62801000.0, 'pcp': 64767000.0, 'atp': 264035484794.3812, 'c': 'FALL', 'cp': 1966000.0, 'scp': -1966000.0, 'cr': 0.0303549647, 'scr': -0.0303549647, 'ab': 'ASK', 'tv': 0.00060439, 'atv': 4105.07539025, 'tdt': '20210428', 'ttm': '063634', 'ttms': 1619591794000, 'aav': 2433.84633692, 'abv': 1671.22905333, 'h52wp': 81994000.0, 'h52wdt': '2021-04-14', 'l52wp': 9339000.0, 'l52wdt': '2020-04-28', 'ts': None, 'ms': 'ACTIVE', 'msfi': None, 'its': False, 'dd': None, 'mw': 'NONE', 'tms': 1619591795458, 'atp24h': 555085615797.3053, 'atv24h': 8630.9207248, 'st': 'REALTIME'}
+# {'ty': 'ticker', 'cd': 'KRW-BTC', 'op': 64759000.0, 'hp': 65899000.0, 'lp': 62608000.0, 'tp': 62802000.0, 'pcp': 64767000.0, 'atp': 264035504784.25778, 'c': 'FALL', 'cp': 1965000.0, 'scp': -1965000.0, 'cr': 0.0303395248, 'scr': -0.0303395248, 'ab': 'ASK', 'tv': 0.0003183, 'atv': 4105.07570855, 'tdt': '20210428', 'ttm': '063634', 'ttms': 1619591794000, 'aav': 2433.84665522, 'abv': 1671.22905333, 'h52wp': 81994000.0, 'h52wdt': '2021-04-14', 'l52wp': 9339000.0, 'l52wdt': '2020-04-28', 'ts': None, 'ms': 'ACTIVE', 'msfi': None, 'its': False, 'dd': None, 'mw': 'NONE', 'tms': 1619591795458, 'atp24h': 555085615797.3053, 'atv24h': 8630.9207248, 'st': 'REALTIME'}
+# {'ty': 'ticker', 'cd': 'KRW-BTC', 'op': 64759000.0, 'hp': 65899000.0, 'lp': 62608000.0, 'tp': 62800000.0, 'pcp': 64767000.0, 'atp': 264036059898.5778, 'c': 'FALL', 'cp': 1967000.0, 'scp': -1967000.0, 'cr': 0.0303704047, 'scr': -0.0303704047, 'ab': 'ASK', 'tv': 0.0088394, 'atv': 4105.08454795, 'tdt': '20210428', 'ttm': '063634', 'ttms': 1619591794000, 'aav': 2433.85549462, 'abv': 1671.22905333, 'h52wp': 81994000.0, 'h52wdt': '2021-04-14', 'l52wp': 9339000.0, 'l52wdt': '2020-04-28', 'ts': None, 'ms': 'ACTIVE', 'msfi': None, 'its': False, 'dd': None, 'mw': 'NONE', 'tms': 1619591795458, 'atp24h': 555085615797.3053, 'atv24h': 8630.9207248, 'st': 'REALTIME'}
+# {'ty': 'ticker', 'cd': 'KRW-BTC', 'op': 64759000.0, 'hp': 65899000.0, 'lp': 62608000.0, 'tp': 62802000.0, 'pcp': 64767000.0, 'atp': 264036084530.1502, 'c': 'FALL', 'cp': 1965000.0, 'scp': -1965000.0, 'cr': 0.0303395248, 'scr': -0.0303395248, 'ab': 'ASK', 'tv': 0.00039221, 'atv': 4105.08494016, 'tdt': '20210428', 'ttm': '063635', 'ttms': 1619591795000, 'aav': 2433.85588683, 'abv': 1671.22905333, 'h52wp': 81994000.0, 'h52wdt': '2021-04-14', 'l52wp': 9339000.0, 'l52wdt': '2020-04-28', 'ts': None, 'ms': 'ACTIVE', 'msfi': None, 'its': False, 'dd': None, 'mw': 'NONE', 'tms': 1619591795466, 'atp24h': 555085615797.3053, 'atv24h': 8630.9207248, 'st': 'REALTIME'}
+# {'ty': 'ticker', 'cd': 'KRW-BTC', 'op': 64759000.0, 'hp': 65899000.0, 'lp': 62608000.0, 'tp': 62800000.0, 'pcp': 64767000.0, 'atp': 264042527412.59457, 'c': 'FALL', 'cp': 1967000.0, 'scp': -1967000.0, 'cr': 0.0303704047, 'scr': -0.0303704047, 'ab': 'ASK', 'tv': 0.00273476, 'atv': 4105.18753228, 'tdt': '20210428', 'ttm': '063635', 'ttms': 1619591795000, 'aav': 2433.95847895, 'abv': 1671.22905333, 'h52wp': 81994000.0, 'h52wdt': '2021-04-14', 'l52wp': 9339000.0, 'l52wdt': '2020-04-28', 'ts': None, 'ms': 'ACTIVE', 'msfi': None, 'its': False, 'dd': None, 'mw': 'NONE', 'tms': 1619591795488, 'atp24h': 555085615797.3053, 'atv24h': 8630.9207248, 'st': 'REALTIME'}
+
+{'type': 'ticker',
+'code': 'KRW-BTC',
+'opening_price': 64759000.0,
+'high_price': 65899000.0,
+'low_price': 62608000.0,
+'trade_price': 63026000.0,
+'prev_closing_price': 64767000.0,
+'acc_trade_price': 323819155972.96106,
+'change': 'FALL',
+'change_price': 1741000.0,
+'signed_change_price': -1741000.0,
+'change_rate': 0.0268809733,
+'signed_change_rate': -0.0268809733,
+'ask_bid': 'ASK',
+'trade_volume': 0.01874868,
+'acc_trade_volume': 5049.85919371,
+'trade_date': '20210428',
+'trade_time': '090147',
+'trade_timestamp': 1619600507000,
+'acc_ask_volume': 2955.38144607,
+'acc_bid_volume': 2094.47774764,
+'highest_52_week_price': 81994000.0,
+'highest_52_week_date': '2021-04-14',
+'lowest_52_week_price': 9339000.0,
+'lowest_52_week_date': '2020-04-28',
+'trade_status': None,
+'market_state': 'ACTIVE',
+'market_state_for_ios': None,
+'is_trading_suspended': False,
+'delisting_date': None,
+'market_warning': 'NONE',
+'timestamp': 1619600508219,
+'acc_trade_price_24h': 560397480818.1324,
+'acc_trade_volume_24h': 8727.9076733,
+'stream_type': 'REALTIME'}
+
+
+# $ telsocket -url wss://api.upbit.com/websocket/v1
+# Connected!
+# [{"ticket":"test"},{"type":"ticker","codes":["KRW-BTC"]}]
+# {"market":"KRW-BTC","opening_price":8450000.00000000,"high_price":8679000.00000000,"low_price":8445000.00000000,"trade_price":8629000.0,"prev_closing_price":8450000.00000000,"acc_trade_price":105514711074.18726000,"change":"RISE","change_price":179000.00000000,"signed_change_price":179000.00000000,"change_rate":0.0211834320,"signed_change_rate":0.0211834320,"ask_bid":"ASK","trade_volume":0.0105675,"acc_trade_volume":12312.36058857,"trade_date":"20180418","trade_time":"100729","trade_timestamp":1524046049000,"acc_ask_volume":5703.42273172,"acc_bid_volume":6608.93785685,"highest_52_week_price":28885000.00000000,"highest_52_week_date":"2018-01-06","lowest_52_week_price":3286000.00000000,"lowest_52_week_date":"2017-09-15","trade_status":"ACTIVE","market_state":"ACTIVE","market_state_for_ios":"ACTIVE","is_trading_suspended":false,"delisting_date":null,"market_warning":"NONE","timestamp":1524046049766,"acc_trade_price_24h":55330325803.78210000,"acc_trade_volume_24h":6448.96200341}
+#  {"market":"KRW-BTC","opening_price":8450000.00000000,"high_price":8679000.00000000,"low_price":8445000.00000000,"trade_price":8629000.0,"prev_closing_price":8450000.00000000,"acc_trade_price":105515441503.850220000,"change":"RISE","change_price":179000.00000000,"signed_change_price":179000.00000000,"change_rate":0.0211834320,"signed_change_rate":0.0211834320,"ask_bid":"ASK","trade_volume":0.08464824,"acc_trade_volume":12312.44523681,"trade_date":"20180418","trade_time":"100730","trade_timestamp":1524046050000,"acc_ask_volume":5703.50737996,"acc_bid_volume":6608.93785685,"highest_52_week_price":28885000.00000000,"highest_52_week_date":"2018-01-06","lowest_52_week_price":3286000.00000000,"lowest_52_week_date":"2017-09-15","trade_status":"ACTIVE","market_state":"ACTIVE","market_state_for_ios":"ACTIVE","is_trading_suspended":false,"delisting_date":null,"market_warning":"NONE","timestamp":1524046050758,"acc_trade_price_24h":55330325803.78210000,"acc_trade_volume_24h":6448.96200341}
+# ...
+# {"market":"KRW-BTC",
+# "opening_price":8450000.00000000,
+# "high_price":8679000.00000000,
+# "low_price":8445000.00000000,
+# "trade_price":8629000.0,
+# "prev_closing_price":8450000.00000000,
+# "acc_trade_price":105515441503.850220000,
+# "change":"RISE",
+# "change_price":179000.00000000,
+# "signed_change_price":179000.00000000,
+# "change_rate":0.0211834320,
+# "signed_change_rate":0.0211834320,
+# "ask_bid":"ASK",
+# "trade_volume":0.08464824,
+# "acc_trade_volume":12312.44523681,
+# "trade_date":"20180418",
+# "trade_time":"100730",
+# "trade_timestamp":1524046050000,
+# "acc_ask_volume":5703.50737996,
+# "acc_bid_volume":6608.93785685,
+# "highest_52_week_price":28885000.00000000,
+# "highest_52_week_date":"2018-01-06",
+# "lowest_52_week_price":3286000.00000000,
+# "lowest_52_week_date":"2017-09-15",
+# "trade_status":"ACTIVE",
+# "market_state":"ACTIVE",
+# "market_state_for_ios":"ACTIVE",
+# "is_trading_suspended":false,
+# "delisting_date":null,
+# "market_warning":"NONE",
+# "timestamp":1524046050758,
+# "acc_trade_price_24h":55330325803.78210000,
+# "acc_trade_volume_24h":6448.96200341}
+
+#   빗썸 데이터
+# {'type': 'ticker', 'content': {'tickType': '1H', 'date': '20210428', 'time': '153907', 'openPrice': '63111000', 'closePrice': '62649000', 'lowPrice': '62632000', 'highPrice': '63693000', 'value': '29326728950.21824', 'volume': '465.16803904', 'sellVolume': '218.67399036', 'buyVolume': '246.41074868', 'prevClosePrice': '64293000', 'chgRate': '-0.73', 'chgAmt': '-462000', 'volumePower': '112.68', 'symbol': 'BTC_KRW'}}
+# {'type': 'ticker', 'content': {'tickType': '1H', 'date': '20210428', 'time': '153908', 'openPrice': '63101000', 'closePrice': '62669000', 'lowPrice': '62632000', 'highPrice': '63693000', 'value': '29340603790.01824', 'volume': '465.39303904', 'sellVolume': '218.16339036', 'buyVolume': '247.14634868', 'prevClosePrice': '64293000', 'chgRate': '-0.68', 'chgAmt': '-432000', 'volumePower': '113.28', 'symbol': 'BTC_KRW'}}
+# {'type': 'ticker', 'content': {'tickType': '1H', 'date': '20210428', 'time': '153914', 'openPrice': '63111000', 'closePrice': '62661000', 'lowPrice': '62632000', 'highPrice': '63693000', 'value': '29303409537.91824', 'volume': '464.80593904', 'sellVolume': '217.50189036', 'buyVolume': '247.22074868', 'prevClosePrice': '64293000', 'chgRate': '-0.71', 'chgAmt': '-450000', 'volumePower': '113.66', 'symbol': 'BTC_KRW'}}
+# {'type': 'ticker', 'content': {'tickType': '1H', 'date': '20210428', 'time': '153915', 'openPrice': '63119000', 'closePrice': '62649000', 'lowPrice': '62631000', 'highPrice': '63693000', 'value': '29299273685.41824', 'volume': '464.74063904', 'sellVolume': '217.43379036', 'buyVolume': '247.22354868', 'prevClosePrice': '64293000', 'chgRate': '-0.74', 'chgAmt': '-470000', 'volumePower': '113.70', 'symbol': 'BTC_KRW'}}
+# {'type': 'ticker', 'content': {'tickType': '1H', 'date': '20210428', 'time': '153916', 'openPrice': '63119000', 'closePrice': '62649000', 'lowPrice': '62631000', 'highPrice': '63693000', 'value': '29276468274.41824', 'volume': '464.37933904', 'sellVolume': '217.18149036', 'buyVolume': '247.11454868', 'prevClosePrice': '64293000', 'chgRate': '-0.74', 'chgAmt': '-470000', 'volumePower': '113.78', 'symbol': 'BTC_KRW'}}
+# {'type': 'ticker', 'content': {'tickType': '1H', 'date': '20210428', 'time': '153917', 'openPrice': '63103000', 'closePrice': '62694000', 'lowPrice': '62631000', 'highPrice': '63693000', 'value': '29266772957.11824', 'volume': '464.22573904', 'sellVolume': '217.16189036', 'buyVolume': '246.98054868', 'prevClosePrice': '64293000', 'chgRate': '-0.65', 'chgAmt': '-409000', 'volumePower': '113.73', 'symbol': 'BTC_KRW'}}
+
+# wm = WebSocketManager("ticker", [f"{self.ticker}"], ["24H", "MID"])
+# {'type': 'ticker', 'content': {'tickType': '24H', 'date': '20210428', 'time': '154713', 'openPrice': '64411000', 'closePrice': '63041000', 'lowPrice': '62631000', 'highPrice': '65760000', 'value': '280209772922.01792', 'volume': '4364.79494923', 'sellVolume': '2149.18308285', 'buyVolume': '2215.52022293', 'prevClosePrice': '64293000', 'chgRate': '-2.13', 'chgAmt': '-1370000', 'volumePower': '103.09', 'symbol': 'BTC_KRW'}}
+
